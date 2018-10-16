@@ -1,0 +1,17 @@
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\StatTracker.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\StatTracker.pdb
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\OTAPI.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\TerrariaServer.exe
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\TShockAPI.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\HttpServer.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\MySql.Data.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\BCrypt.Net.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\obj\Debug\StatTracker.csprojAssemblyReference.cache
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\obj\Debug\StatTracker.csproj.CoreCompileInputs.cache
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\obj\Debug\StatTracker.csproj.CopyComplete
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\obj\Debug\StatTracker.dll
+C:\Users\Fryke\Desktop\Terraria Projects\StatTracker\StatTracker\obj\Debug\StatTracker.pdb
